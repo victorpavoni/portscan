@@ -1,7 +1,7 @@
 # PortScan em Python 3 *simples*
 
 ## Sobre
-Um simples PortScan que suporta 6 portas e facil de usar, tanto quanto [adicionar portas](#como-adicionar-mais-portas) quanto [executar o portscan](#como-executar) sao explicados neste guia.
+Um simples PortScan que suporta 6 portas e facil de usar, tanto quanto [adicionar portas](#como-adicionar-mais-portas) quanto [executar o portscan](#como-executar)  é explicado neste guia.
 
 ## Requisitos
 
