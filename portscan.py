@@ -18,7 +18,7 @@ for porta in portas:
     codigo = cliente.connect_ex((dominio, porta))
     if codigo == 0:
         print("{} OPEN".format(porta))
-    elif alt == 'n':
+    elif alt == 's':
         print("{} CLOSE".format(porta))
     else: 
        continue
